@@ -6,7 +6,7 @@
 
 # Netflix-Interface
 
-Clone de interface da Netflix  com HTML5, CSS3, JavaScript e Jquery. 
+Clone de interface da Netflix criado com HTML5, CSS3, JavaScript e Jquery. 
  
 O deploy pode ser acessado pelo link:
  https://jardelmoraes.github.io/Netflix-Interface-JardelMoares/
